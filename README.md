@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align = "center">
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=masterslyer10&cover_image=true&theme=novatorem&show_offline=true&background_color=2d2a2a&bar_color=464444&bar_color_cover=false)]
-</h1>
+
